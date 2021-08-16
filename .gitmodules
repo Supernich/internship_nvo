@@ -1,0 +1,3 @@
+[submodule "ArseniysWeatherApp"]
+	path = ArseniysWeatherApp
+	url = git@github.com:Supernich/ArseniysWeatherApp.git
