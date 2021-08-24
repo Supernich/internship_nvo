@@ -1,3 +1,6 @@
 [submodule "ArseniysWeatherApp"]
 	path = ArseniysWeatherApp
 	url = git@github.com:Supernich/ArseniysWeatherApp.git
+[submodule "blogwp"]
+	path = blogwp
+	url = https://github.com/Supernich/blogwp
